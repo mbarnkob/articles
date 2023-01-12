@@ -10,7 +10,7 @@ The following two files were used to analyze images:
 
 ## Files
 
-[01 - R script to organize images from Opera phenix.r](01 - R script to organize images from Opera phenix.r)
+[01 - R script to organize images from Opera phenix.r](https://github.com/mbarnkob/articles/blob/main/2023%20-%20Bogetofte%20-%20Cell%20Reports/01%20-%20R%20script%20to%20organize%20images%20from%20Opera%20phenix.r)
 
 [02 - ImageJ script for merging and prepping images.ijm](02 - ImageJ script for merging and prepping images.ijm)
 
