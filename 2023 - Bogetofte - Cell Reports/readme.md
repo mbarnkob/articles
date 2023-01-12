@@ -12,7 +12,7 @@ The following two files were used to analyze images:
 
 [01 - R script to organize images from Opera phenix.r](https://github.com/mbarnkob/articles/blob/main/2023%20-%20Bogetofte%20-%20Cell%20Reports/01%20-%20R%20script%20to%20organize%20images%20from%20Opera%20phenix.r)
 
-[02 - ImageJ script for merging and prepping images.ijm](02 - ImageJ script for merging and prepping images.ijm)
+[02 - ImageJ script for merging and prepping images.ijm](https://github.com/mbarnkob/articles/blob/main/2023%20-%20Bogetofte%20-%20Cell%20Reports/02%20-%20ImageJ%20script%20for%20merging%20and%20prepping%20images.ijm)
 
 ## Reference
 
