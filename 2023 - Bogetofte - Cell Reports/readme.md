@@ -10,8 +10,9 @@ The following two files were used to analyze images:
 
 ## Files
 
-1. [01 - R script to organize images from Opera phenix.r](01 - R script to organize images from Opera phenix.r)
-2. [02 - ImageJ script for merging and prepping images.ijm](02 - ImageJ script for merging and prepping images.ijm)
+[01 - R script to organize images from Opera phenix.r](01 - R script to organize images from Opera phenix.r)
+
+[02 - ImageJ script for merging and prepping images.ijm](02 - ImageJ script for merging and prepping images.ijm)
 
 ## Reference
 
