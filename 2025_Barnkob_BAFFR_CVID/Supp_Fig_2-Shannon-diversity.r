@@ -22,7 +22,7 @@ n <- 100
 # Define possible values for 'Type' and 'Cluster'
 types <- c("CVID", "Control")
 clusters <- c("cd3_cd19_count", "plasmablast_count", "switched_mem_count", 
-              "unswitched_mem_count", "mature", "naive", "cd27_cd38")
+              "unswitched_mem_count", "mature", "naive", "cd27_cd38", "transitory")
 
 # Generate the dataframe
 df_bcell_shannon <- data.frame(
