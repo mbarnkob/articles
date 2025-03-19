@@ -1,7 +1,8 @@
 #CODE FOR CALCULATING SHANNON DIVERSITY AMONG B-CELL SUBPOPULATIONS
 
-#The following code is for calculation the Shannon Diversity used for supplementary Figure 3 in the paper.
+#The following code is for calculation the Shannon Diversity used for Supplementary Figure 2 in the paper.
 #Written by Mike B Barnkob, march 2025. 
+
 #Please cite paper if used.
 
 #--- PACKAGES
