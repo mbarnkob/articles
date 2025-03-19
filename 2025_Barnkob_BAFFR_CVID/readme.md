@@ -13,12 +13,13 @@ The decay rate of neutralizing antibodies over time is calculated by fitting a l
 y(t) = y0 ⋅ e−λt
 
 Where:
-    y(t) is the neutralization level at time t,
-    y0 is the initial neutralization level (at t=0),
-    λ is the decay rate (slope of the line),
-    t is the time in days.
+- y(t) is the neutralization level at time t,
+- y0 is the initial neutralization level (at t=0),
+- λ is the decay rate (slope of the line),
+- t is the time in days.
 
 By taking the natural logarithm of both sides, we linearize the relationship:
+
 ln⁡(y(t)) = ln⁡(y0) − λt
 
 In this linearized equation, the slope of the line (λ) represents the decay rate. The decay rate indicates how quickly the neutralization ability of antibodies decreases over time.
@@ -26,13 +27,17 @@ In this linearized equation, the slope of the line (λ) represents the decay rat
 *Half-Life Calculation*
 
 The half-life is the time it takes for the neutralizing antibody level to reduce to half of its initial value. For exponential decay, the half-life is related to the decay rate (λ) by the following formula:
+
 t1/2 = ln⁡(2) / λ
 
 Where:
-    t1/2 is the half-life,
-    λ is the decay rate.
+- t1/2 is the half-life,
+- λ is the decay rate.
 
 Given the decay rate obtained from the linear model, the half-life is calculated by dividing the natural logarithm of 2 by the absolute value of the decay rate. This provides the time it takes for the neutralization to decay by 50%.
+
+
+
 
 ## Custom scripts
 
