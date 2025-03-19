@@ -9,7 +9,6 @@ The following files were used for data analysis in the paper *ARTICLE NAME*.
 The decay rate of neutralizing antibodies over time is calculated by fitting a linear regression model to the data, where the neutralization values (neutral_WT) are log-transformed, and the time (DeltaDays) is used as the independent variable. The relationship between antibody neutralization and time follows an exponential decay model:
 
 y(t)=y0⋅e−λt
-y(t)=y0​⋅e−λt
 
 Where:
     y(t) is the neutralization level at time t,
