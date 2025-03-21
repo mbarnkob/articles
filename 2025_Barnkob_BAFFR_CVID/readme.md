@@ -1,8 +1,8 @@
-# Code related to *ARTICLE NAME*
+# Code related to *BAFF-R and CD21 dysregulation in patients with common variable immunodeficiency inhibits memory B cell persistence against SARS-CoV-2*
 
 ## Introduction
 
-The following files were used for data analysis in the paper *ARTICLE NAME*.
+The following files were used for data analysis in the paper *BAFF-R and CD21 dysregulation in patients with common variable immunodeficiency inhibits memory B cell persistence against SARS-CoV-2* by Barnkob MB et al. The code is written in R (1). Below is further methodological considerations and links to individual files, which contain example data.
 
 ### Concerning decay-rate and half-life calculations:
 
@@ -52,15 +52,15 @@ Where:
 
 ## Custom scripts
 
-[01 - R script to organize images from Opera phenix.r](https://github.com/mbarnkob/articles/blob/main/2023%20-%20Bogetofte%20-%20Cell%20Reports/01%20-%20R%20script%20to%20organize%20images%20from%20Opera%20phenix.r)
+[01 - Decay_rate-half_life.r](https://github.com/mbarnkob/articles/blob/main/2025_Barnkob_BAFFR_CVID/Decay_rate-half_life.r)
 
-[02 - ImageJ script for merging and prepping images.ijm](https://github.com/mbarnkob/articles/blob/main/2023%20-%20Bogetofte%20-%20Cell%20Reports/02%20-%20ImageJ%20script%20for%20merging%20and%20prepping%20images.ijm)
+[02 - Supp_Fig_2-Shannon-diversity.r](https://github.com/mbarnkob/articles/blob/main/2025_Barnkob_BAFFR_CVID/Supp_Fig_2-Shannon-diversity.r)
 
 ## Citation
 
 If you use this code, please cite it as follows:
 
-> Barnkob MB et al....
+> Barnkob MB et al, BAFF-R and CD21 dysregulation in patients with common variable immunodeficiency inhibits memory B cell persistence against SARS-CoV-2, bioRxiv. DOI: 
 
 ## References
 
