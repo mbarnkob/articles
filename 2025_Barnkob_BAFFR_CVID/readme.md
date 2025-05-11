@@ -1,8 +1,8 @@
-# Code related to *BAFF-R and CD21 dysregulation in patients with common variable immunodeficiency inhibits memory B cell persistence against SARS-CoV-2*
+# Code related to *BAFF-R and CD21 dysregulation inhibits memory B cell persistence in patients with common variable immunodeficiency*
 
 ## Introduction
 
-The following files were used for data analysis in the paper *BAFF-R and CD21 dysregulation in patients with common variable immunodeficiency inhibits memory B cell persistence against SARS-CoV-2* by Barnkob MB et al. The code is written in R (1). Below is further methodological considerations and links to individual files, which contain example data.
+The following files were used for data analysis in the paper *BAFF-R and CD21 dysregulation inhibits memory B cell persistence in patients with common variable immunodeficiency* by Barnkob MB et al. The code is written in R (1). Below is further methodological considerations and links to individual files, which contain example data.
 
 ### Concerning decay-rate and half-life calculations:
 
@@ -60,7 +60,7 @@ Where:
 
 If you use this code, please cite it as follows:
 
-> Barnkob MB et al, BAFF-R and CD21 dysregulation in patients with common variable immunodeficiency inhibits memory B cell persistence against SARS-CoV-2, bioRxiv. DOI: 
+> Barnkob MB et al, BAFF-R and CD21 dysregulation inhibits memory B cell persistence in patients with common variable immunodeficiency, JOURNAL NAME, 2025. DOI: ?. 
 
 ## References
 
